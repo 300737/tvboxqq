@@ -28,7 +28,7 @@
 
 ## ★源接口：
 
-http://www.饭太硬.com/tv
+http://www.饭太硬.cc/tv
 （饭太硬）
 
 https://gh-proxy.org/https://raw.githubusercontent.com/ggrrttyyiii/CatVodSpider/refs/heads/main/json/demo.json
